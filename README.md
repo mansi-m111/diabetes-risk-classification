@@ -23,10 +23,10 @@ This case study uses Python and scikit-learn to build, evaluate, and interpret s
   Visualize and summarize patient health metrics to understand their relationships and distributions.
 
 - **Model Building**  
-  Train and compare classification algorithms (e.g., Logistic Regression, Decision Trees) to predict diabetes.
+  Train and compare classification algorithms (e.g., Logistic Regression, KNN) to predict diabetes.
 
 - **Performance Evaluation**  
-  Evaluate model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
+  Evaluate model performance using accuracy, precision, recall, and F1-score.
 
 - **Feature Interpretation**  
   Identify which health variables most influence the likelihood of diabetes.
