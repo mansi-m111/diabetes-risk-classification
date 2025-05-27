@@ -1,5 +1,7 @@
 # 🤖 Diabetes Classification: Predicting Disease Risk from Health Metrics
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+
 This project applies **machine learning classification** techniques to the well-known **Pima Indians Diabetes dataset**, aiming to predict whether a patient is at risk of diabetes based on common health metrics. It highlights how data science can support **early disease detection** and **healthcare decision-making**.
 
 ---
