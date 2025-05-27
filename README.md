@@ -60,7 +60,6 @@ This case study uses Python and scikit-learn to build, evaluate, and interpret s
   - **Precision**
   - **Recall**
   - **F1-score**
-  - **ROC-AUC**
 - Used confusion matrices to assess false positives and false negatives
 - Analyzed **feature importance** to understand clinical relevance
 
